@@ -1,0 +1,10 @@
+# https://www.robotstxt.org/robotstxt.html
+User-agent: *
+Allow: /
+
+# Disallow dashboard and private routes
+Disallow: /dashboard/
+Disallow: /private/
+
+# Sitemap location
+Sitemap: https://moneyytrack.netlify.app/sitemap.xml

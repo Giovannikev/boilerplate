@@ -1,0 +1,7 @@
+services:
+  frontend:
+    build: .
+    container_name: easysend-frontend
+    ports:
+      - "3001:80"
+    restart: unless-stopped

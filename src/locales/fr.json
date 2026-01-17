@@ -1,0 +1,92 @@
+{
+  "common": {
+    "dashboard": "Tableau de bord",
+    "settings": "Paramètres",
+    "profile": "Profil",
+    "logout": "Déconnexion",
+    "logout_error": "Erreur lors de la déconnexion",
+    "welcome": "Bienvenue",
+    "quickCreate": "Création rapide",
+    "inbox": "Boîte de réception",
+    "toggleLanguage": "Changer la langue",
+    "toggleTheme": "Changer le thème"
+  },
+  "auth": {
+    "signIn": "Se connecter",
+    "signUp": "S'inscrire",
+    "email": "Email",
+    "password": "Mot de passe",
+    "forgotPassword": "Mot de passe oublié ?",
+    "signInTitle": "Connectez-vous à votre compte",
+    "signInDescription": "Entrez votre e-mail et votre mot de passe pour vous connecter",
+    "signInError": "Une erreur est survenue lors de la connexion",
+    "signInSuccess": "Connexion réussie",
+    "unexpectedError": "Une erreur inattendue est survenue",
+    "signingIn": "Connexion en cours...",
+    "noAccount": "Vous n'avez pas de compte ?",
+    "termsText": "En cliquant sur continuer, vous acceptez nos",
+    "termsOfService": "Conditions d'utilisation",
+    "and": "et notre",
+    "privacyPolicy": "Politique de confidentialité",
+    "fullName": "Nom complet",
+    "signUpTitle": "Créer votre compte",
+    "signUpDescription": "Entrez votre email ci-dessous pour créer votre compte",
+    "signUpError": "Une erreur est survenue lors de l'inscription",
+    "signUpSuccess": "Veuillez vérifier votre email pour activer votre compte",
+    "resetPasswordTitle": "Réinitialiser votre mot de passe",
+    "resetPasswordDescription": "Entrez votre email pour recevoir un lien de réinitialisation",
+    "resetPasswordEmailSent": "Un lien de réinitialisation a été envoyé à votre adresse e-mail.",
+    "newPassword": "Nouveau mot de passe",
+    "confirmNewPassword": "Confirmer le nouveau mot de passe",
+    "passwordsDoNotMatch": "Les mots de passe ne correspondent pas.",
+    "updatePassword": "Mettre à jour le mot de passe",
+    "passwordUpdateSuccess": "Votre mot de passe a été mis à jour avec succès.",
+    "updatePasswordDescription": "Entrez votre nouveau mot de passe ci-dessous.",
+    "resetPasswordError": "Erreur lors de la réinitialisation du mot de passe",
+    "passwordUpdateError": "Erreur lors de la mise à jour du mot de passe",
+    "alreadyHaveAccount": "Vous avez déjà un compte ?",
+    "signUpImageAlt": "Image d'inscription",
+    "backToSignIn": "Retour à la connexion"
+  },
+  "profile": {
+    "photoLabel": "Photo de profil",
+    "uploadAction": "Uploader",
+    "infoTitle": "Informations",
+    "infoDescription": "Votre identité et vos coordonnées",
+    "avatarUrlLabel": "Avatar URL",
+    "fullNameLabel": "Nom complet",
+    "fullNamePlaceholder": "Votre nom",
+    "avatarUrlPlaceholder": "https://...",
+    "emailPlaceholder": "votre@email.com",
+    "emailLabel": "Email",
+    "saveAction": "Enregistrer",
+    "resetAction": "Réinitialiser",
+    "securityTitle": "Sécurité",
+    "securityDescription": "Mettre à jour votre mot de passe",
+    "newPasswordLabel": "Nouveau mot de passe",
+    "confirmPasswordLabel": "Confirmer",
+    "updatePasswordAction": "Mettre à jour",
+    "sessionTitle": "Session",
+    "sessionDescription": "Connecté en tant que {{email}}",
+    "signOutAction": "Se déconnecter",
+    "errors": {
+      "passwordMismatch": "Les mots de passe ne correspondent pas",
+      "updateProfileError": "Échec de la mise à jour du profil",
+      "updatePasswordError": "Échec de la mise à jour du mot de passe",
+      "signOutError": "Échec de la déconnexion"
+    },
+    "success": {
+      "profileUpdated": "Profil mis à jour",
+      "passwordUpdated": "Mot de passe mis à jour",
+      "signedOut": "Vous avez été déconnecté"
+    }
+  },
+  "settings": {
+    "appearanceTitle": "Apparence",
+    "appearanceDescription": "Thème et affichage"
+  },
+  "errors": {
+    "app_error": "Une erreur est survenue",
+    "retry": "Réessayer"
+  }
+}

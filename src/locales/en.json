@@ -1,0 +1,92 @@
+{
+  "common": {
+    "dashboard": "Dashboard",
+    "settings": "Settings",
+    "profile": "Profile",
+    "logout": "Logout",
+    "logout_error": "Error during logout",
+    "welcome": "Welcome",
+    "quickCreate": "Quick Create",
+    "inbox": "Inbox",
+    "toggleLanguage": "Toggle language",
+    "toggleTheme": "Toggle theme"
+  },
+  "auth": {
+    "signIn": "Sign In",
+    "signUp": "Sign Up",
+    "email": "Email",
+    "password": "Password",
+    "forgotPassword": "Forgot password?",
+    "signInTitle": "Log in to your account",
+    "signInDescription": "Enter your email and password to log in",
+    "signInError": "An error occurred during sign in",
+    "signInSuccess": "Sign in successful",
+    "unexpectedError": "An unexpected error occurred",
+    "signingIn": "Signing in...",
+    "noAccount": "Don't have an account?",
+    "termsText": "By clicking continue, you agree to our",
+    "termsOfService": "Terms of Service",
+    "and": "and our",
+    "privacyPolicy": "Privacy Policy",
+    "fullName": "Full Name",
+    "signUpTitle": "Create your account",
+    "signUpDescription": "Enter your email below to create your account",
+    "signUpError": "An error occurred during registration",
+    "signUpSuccess": "Please check your email to activate your account",
+    "resetPasswordTitle": "Reset your password",
+    "resetPasswordDescription": "Enter your email to receive a reset link",
+    "resetPasswordEmailSent": "A reset link has been sent to your email address.",
+    "newPassword": "New password",
+    "confirmNewPassword": "Confirm new password",
+    "passwordsDoNotMatch": "Passwords do not match.",
+    "updatePassword": "Update password",
+    "passwordUpdateSuccess": "Your password has been updated successfully.",
+    "updatePasswordDescription": "Enter your new password below.",
+    "resetPasswordError": "Error resetting password",
+    "passwordUpdateError": "Error updating password",
+    "alreadyHaveAccount": "Already have an account?",
+    "signUpImageAlt": "Sign up image",
+    "backToSignIn": "Back to sign in"
+  },
+  "profile": {
+    "photoLabel": "Profile photo",
+    "uploadAction": "Upload",
+    "infoTitle": "Information",
+    "infoDescription": "Your identity and contact details",
+    "avatarUrlLabel": "Avatar URL",
+    "fullNameLabel": "Full name",
+    "fullNamePlaceholder": "Your name",
+    "avatarUrlPlaceholder": "https://...",
+    "emailPlaceholder": "your@email.com",
+    "emailLabel": "Email",
+    "saveAction": "Save",
+    "resetAction": "Reset",
+    "securityTitle": "Security",
+    "securityDescription": "Update your password",
+    "newPasswordLabel": "New password",
+    "confirmPasswordLabel": "Confirm",
+    "updatePasswordAction": "Update",
+    "sessionTitle": "Session",
+    "sessionDescription": "Signed in as {{email}}",
+    "signOutAction": "Sign out",
+    "errors": {
+      "passwordMismatch": "Passwords do not match",
+      "updateProfileError": "Failed to update profile",
+      "updatePasswordError": "Failed to update password",
+      "signOutError": "Failed to sign out"
+    },
+    "success": {
+      "profileUpdated": "Profile updated",
+      "passwordUpdated": "Password updated",
+      "signedOut": "You have been signed out"
+    }
+  },
+  "settings": {
+    "appearanceTitle": "Appearance",
+    "appearanceDescription": "Theme and display"
+  },
+  "errors": {
+    "app_error": "An error occurred",
+    "retry": "Retry"
+  }
+}
